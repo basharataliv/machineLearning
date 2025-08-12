@@ -1,0 +1,16 @@
+Date,OrderID,Customer,Item,Category,Quantity,Price,PaymentMethod
+2025-08-01,1001,,Latte,Coffee,2,4.50,Cash
+2025-08-01,1002,Sarah Ahmed,Cappuccino,Coffee,1,4.00,Card
+2025-08-01,1003,John Smith,Espresso,Coffee,3,3.00,Cash
+2025-08-02,1004,Emily Jones,Blueberry Muffin,Pastry,2,2.50,Card
+2025-08-02,1005,Hassan Ali,Americano,Coffee,1,3.50,Cash
+2025-08-02,1006,Noor Fatima,Mocha,Coffee,2,4.75,Card
+2025-08-03,1007,Mohammed Usman,Cheese Croissant,Pastry,1,3.00,Cash
+2025-08-03,1008,,Green Tea,Tea,1,2.80,Card
+2025-08-03,1009,James Brown,Latte,Coffee,1,4.50,Card
+2025-08-04,1010,Ayesha Khan,Espresso,Coffee,2,3.00,Cash
+2025-08-04,1011,David Lee,Carrot Cake,Pastry,1,3.25,Card
+2025-08-04,1012,Laura White,Americano,Coffee,3,3.50,Card
+2025-08-05,1013,Ali Khan,Mocha,Coffee,1,4.75,Cash
+2025-08-05,1014,Peter Hall,Earl Grey Tea,Tea,2,2.60,Card
+2025-08-05,1015,Sarah Ahmed,Blueberry Muffin,Pastry,1,2.50,Cash
